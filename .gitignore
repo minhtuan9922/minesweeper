@@ -37,3 +37,4 @@ yarn-error.log
 
 # CocoaPods
 /ios/Pods/
+.yarn/cache/*
