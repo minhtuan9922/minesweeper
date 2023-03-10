@@ -2256,7 +2256,7 @@ __metadata:
     metro-react-native-babel-preset: ^0.66.2
     prettier: ^2.2.1
     react: 17.0.2
-    react-native: 0.66.1
+    react-native: 0.66.5
     react-native-navigation: ^7.32.1
     react-test-renderer: 17.0.2
     styled-components: ^5.2.1
@@ -8424,9 +8424,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native@npm:0.66.1":
-  version: 0.66.1
-  resolution: "react-native@npm:0.66.1"
+"react-native@npm:0.66.5":
+  version: 0.66.5
+  resolution: "react-native@npm:0.66.5"
   dependencies:
     "@jest/create-cache-key-function": ^27.0.1
     "@react-native-community/cli": ^6.0.0
@@ -8463,7 +8463,7 @@ __metadata:
     react: 17.0.2
   bin:
     react-native: cli.js
-  checksum: fe1701bb398d8f533c51aaf05dabb1c5d11caf80cb39c79fd38f4dbf13a27e8497080216ffdb19aa72f222d5bc75b32b8673bef504fab711f65a8d84dbdb5ddf
+  checksum: dd925fa22f54ea6727f71b5a87275b837ebc7ead710be252e01b2b57f5b998ac55c18b03aa21161f357b573cdbe40dd320b331a53dd07d758d1b938ba9fc3d6b
   languageName: node
   linkType: hard
 
